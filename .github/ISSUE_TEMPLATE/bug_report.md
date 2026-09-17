@@ -1,9 +1,4 @@
----
-about: Report a problem with Tekkit Classic: Born Again
-title: ''
-labels: bug
-assignees: ''
----
+
 
 ## Modpack Version
 What version of Tekkit Classic: Born Again are you using?
