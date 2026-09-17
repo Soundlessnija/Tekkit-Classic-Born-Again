@@ -1,38 +1,51 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+about: Report a problem with Tekkit Classic: Born Again
 title: ''
-labels: ''
+labels: bug
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Modpack Version
+What version of Tekkit Classic: Born Again are you using?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Example: `1.0.0`
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Describe the Bug
+Clearly describe what went wrong.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Steps to Reproduce
+1.
+2.
+3.
+4.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Expected Behavior
+What did you expect to happen?
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Does This Happen in a New World?
+Please test in a new world if possible.
 
-**Additional context**
-Add any other context about the problem here.
+- [ ] Yes
+- [ ] No
+- [ ] I haven't tested
+
+## Crash Report
+If Minecraft generated a crash report, attach the **entire crash report file** here.
+
+You can drag and drop the file directly into this issue.
+
+If no crash report was generated, write `None`.
+
+## Latest.log
+If the problem involves a crash, startup failure, world-loading problem, missing content, or unusual mod behavior, please attach your `latest.log`.
+
+**Please attach the actual file rather than pasting thousands of lines into the issue.**
+
+## What Were You Doing?
+Describe what you were doing immediately before the problem occurred.
+
+## Screenshots
+If screenshots would help explain the problem, attach them here.
+
+## Additional Information
+Include anything else that may help reproduce or diagnose the problem.
