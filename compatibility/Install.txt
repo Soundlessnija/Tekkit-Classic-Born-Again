@@ -1,0 +1,15 @@
+
+
+Install these in your global_packs file in the main directory of the modpack 
+Exp C:\Users\Admin\AppData\Roaming\ModrinthApp\profiles\Tekkit Revolution\global_packs
+
+1. TRCResourcePackCompat.zip
+   -> global_packs/required_resources/
+
+2. TRCDataPackCompat.zip
+   -> global_packs/required_data/
+
+
+The two inner ZIPs should remain zipped.
+
+Licensing information is included inside each pack.
