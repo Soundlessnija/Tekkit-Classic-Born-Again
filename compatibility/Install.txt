@@ -1,0 +1,14 @@
+Tekkit Classic: Born Again - Public Compatibility v3
+
+SHIP THESE TWO INNER ZIP FILES WITH THE MODPACK:
+
+1. TCBAResourcePackCompat.zip
+   -> global_packs/required_resources/
+
+2. TCBADataPackCompat.zip
+   -> global_packs/required_data/
+
+
+The two inner ZIPs should remain zipped.
+
+Licensing information is included inside each pack.
