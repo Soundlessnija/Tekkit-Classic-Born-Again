@@ -1,6 +1,7 @@
-Tekkit Classic: Born Again - Public Compatibility v3
+Tekkit Classic: Born Again
 
-SHIP THESE TWO INNER ZIP FILES WITH THE MODPACK:
+Install these in your global_packs file in the main directory of the modpack 
+Exp C:\Users\Admin\AppData\Roaming\ModrinthApp\profiles\Tekkit Revolution\global_packs
 
 1. TCBAResourcePackCompat.zip
    -> global_packs/required_resources/
@@ -8,7 +9,5 @@ SHIP THESE TWO INNER ZIP FILES WITH THE MODPACK:
 2. TCBADataPackCompat.zip
    -> global_packs/required_data/
 
-
-The two inner ZIPs should remain zipped.
 
 Licensing information is included inside each pack.
