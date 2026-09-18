@@ -1,7 +1,7 @@
-# Tekkit Classic: Born Again — Compatibility Files
+# Tekkit ReClassic— Compatibility Files
 
 This folder contains the custom resource pack and data pack used by
-Tekkit Classic: Born Again to improve compatibility between mods and
+Tekkit ReClassic to improve compatibility between mods and
 clean up errors caused by outdated or optional integrations.
 
 These files were created specifically for this modpack and are not
@@ -9,7 +9,7 @@ intended to replace or modify the original mods themselves.
 
 ## Why These Exist
 
-While developing Tekkit Classic: Born Again, I spent a lot of time
+While developing Tekkit ReClassic, I spent a lot of time
 reviewing the Minecraft logs and tracking down errors, warnings, missing
 resources, and compatibility problems.
 
@@ -40,7 +40,7 @@ including:
   integrations are not present.
 - Cleaning up errors from old or optional compatibility recipes.
 - Handling unused Steam 'n' Rails compatibility loot tables for mods
-  that are not included in Tekkit Classic: Born Again.
+  that are not included in Tekkit ReClassic.
 - Reducing unnecessary errors and warnings during datapack loading.
 
 The goal is not simply to hide errors. Fixes are only included when the
@@ -50,7 +50,7 @@ configuration used by this modpack.
 ## How These Were Made
 
 These compatibility files were created while troubleshooting
-Tekkit Classic: Born Again.
+Tekkit ReClassic.
 
 I am not very familiar with the internal structure of Minecraft resource
 packs and data packs, so I used AI assistance during development to help:
@@ -76,19 +76,19 @@ The compatibility packs contain a mixture of original compatibility
 work and, where applicable, resources associated with third-party
 projects.
 
-Original compatibility files created specifically for Tekkit Classic:
-Born Again are provided under the license included with those files.
+Original compatibility files created specifically for Tekkit ReClassic
+are provided under the license included with those files.
 
 Third-party content remains the property of its respective authors and
 continues to be governed by the original project's license. Included
 license and attribution files should not be removed.
 
 Nothing in this repository is intended to relicense third-party work
-under the Tekkit Classic: Born Again license.
+under the Tekkit ReClassic license.
 
 ## Reporting Problems
 
 If one of these compatibility fixes causes a problem, or you believe a
 fix is no longer necessary, please open an issue:
 
-https://github.com/Soundlessnija/Tekkit-Classic-Born-Again/issues
+https://github.com/Soundlessnija/Tekkit-ReClassic/issues
